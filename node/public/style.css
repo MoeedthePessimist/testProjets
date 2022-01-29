@@ -1,0 +1,7 @@
+h1 {
+    transition: all 0.5s ease;
+}
+
+h1:hover {
+    padding-right: 2em; 
+}
